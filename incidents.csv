@@ -1,0 +1,51 @@
+Id,titre,description,service,date
+1,Panne machine,Panne sur la presse hydraulique,Production,2025-10-01
+2,Fuite d’huile,Fuite détectée sous le compresseur principal,Maintenance,2025-10-01
+3,Incident électrique,Coupure de courant dans le bâtiment B,Énergie,2025-10-02
+4,Erreur d’étiquetage,Mauvais étiquetage sur une palette,Qualité,2025-10-02
+5,Rupture stock,Manque de pièces détachées pour l’atelier 3,Logistique,2025-10-03
+6,Surconsommation,Surconsommation d’air comprimé,Énergie,2025-10-03
+7,Défaut soudure,Mauvaise soudure détectée,Qualité,2025-10-04
+8,Porte bloquée,Porte d’accès bloquée par un chariot,Logistique,2025-10-04
+9,Chaleur excessive,Température trop élevée dans l’atelier,Environnement,2025-10-04
+10,Pompe HS,Pompe de refroidissement à l’arrêt,Maintenance,2025-10-05
+11,Fuite gaz,Fuite de gaz mineure détectée,Maintenance,2025-10-05
+12,Incident logiciel,Erreur dans le logiciel de gestion,Informatique,2025-10-06
+13,Erreur inventaire,Désaccord entre stock théorique et réel,Logistique,2025-10-06
+14,Courroie cassée,Courroie du convoyeur rompue,Production,2025-10-07
+15,Bruit anormal,Bruit suspect dans le moteur principal,Production,2025-10-07
+16,Erreur de mesure,Outil de mesure mal calibré,Qualité,2025-10-07
+17,Réservoir vide,Réservoir de peinture vide,Production,2025-10-08
+18,Connexion perdue,Perte de connexion entre capteurs,Informatique,2025-10-08
+19,Dégât des eaux,Infiltration d’eau dans l’atelier A,Environnement,2025-10-09
+20,Surcharge,Surcharge électrique détectée,Énergie,2025-10-09
+21,Mauvais tri,Erreur de tri dans les déchets,Environnement,2025-10-10
+22,Erreur planning,Changement d’équipe mal communiqué,RH,2025-10-10
+23,Dossier manquant,Dossier de production absent,Informatique,2025-10-11
+24,Poussière,Poussière excessive sur les capteurs,Maintenance,2025-10-11
+25,Ralentissement réseau,Temps de réponse élevé du système,Informatique,2025-10-12
+26,Alarme déclenchée,Déclenchement de l’alarme sans cause,Énergie,2025-10-12
+27,Accident mineur,Choc léger avec un chariot élévateur,Sécurité,2025-10-12
+28,Colis perdu,Colis introuvable en zone d’expédition,Logistique,2025-10-13
+29,Défaut peinture,Zone non couverte par la peinture,Qualité,2025-10-13
+30,Surstock,Surplus de matières premières,Logistique,2025-10-14
+31,Clim défectueuse,Climatisation ne fonctionne pas,Environnement,2025-10-14
+32,Fausse alerte,Fausse détection de fumée,Sécurité,2025-10-14
+33,Panne capteur,Capteur de pression inactif,Maintenance,2025-10-15
+34,Mauvais emballage,Produits mal emballés,Qualité,2025-10-15
+35,Erreur saisie,Erreur dans la saisie des heures,RH,2025-10-15
+36,Batterie faible,Batterie faible sur terminal mobile,Informatique,2025-10-16
+37,Porte déformée,Porte de quai endommagée,Logistique,2025-10-16
+38,Fuite liquide,Fuite sur la machine à découper,Maintenance,2025-10-16
+39,Retard livraison,Livraison fournisseur en retard,Logistique,2025-10-17
+40,Incident poste,Surchauffe d’un poste de travail,Production,2025-10-17
+41,Coupure internet,Coupure générale du réseau,Informatique,2025-10-18
+42,Défaut assemblage,Assemblage incorrect détecté,Qualité,2025-10-18
+43,Défibrillateur absent,Défibrillateur non retrouvé,Sécurité,2025-10-19
+44,Erreur horaire,Horaires incorrects affichés,RH,2025-10-19
+45,Chute objet,Objet tombé d’une étagère,Sécurité,2025-10-19
+46,Température basse,Atelier trop froid,Environnement,2025-10-20
+47,Incident portique,Portique de sécurité bloqué,Sécurité,2025-10-20
+48,Pneu crevé,Pneu chariot crevé en cours de livraison,Logistique,2025-10-21
+49,Incident opérateur,Erreur humaine sur ligne 2,Production,2025-10-21
+50,Bug application,Application mobile non fonctionnelle,Informatique,2025-10-21
